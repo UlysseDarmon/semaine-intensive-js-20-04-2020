@@ -7,3 +7,5 @@ We had to create a game using HTML/CSS/JS
 Ambrose Ben Tiba
 
 Catherine Ye
+
+Ulysse Darmon
